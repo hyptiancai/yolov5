@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>10038.png</filename>
+	<path>C:\VOCdevkit\VOC2007\JPEGImages\10038.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>306</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>20</ymin>
+			<xmax>205</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
